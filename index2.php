@@ -47,9 +47,9 @@ include("include/menu.php");
 		  <div class="item active">
 			<img src="images/pascomputacion.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Comptación Básica</h4>
+				  <h4>Comptación Básica 1</h4>
 				  <p>
-				   recuerde que en esta disciplina la práctica es la que da el dominio en el uso de las herramientas, estaremos siempre a la orden para compartir con usted experiencias y sobretodo para ayudarlo en el aprendizaje.
+				   recuerde que en esta disciplina la práctica  es la que da el dominio en  en el uso de las herramientas, estaremos siempre a la orden para compartir con usted experiencias y sobretodo para ayudarlo en el aprendizaje.
 				  </p>
 			</div>
 		  </div>
