@@ -8,7 +8,7 @@ if (@!$_SESSION['user']) {
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Proyecto Academias</title>
+    <title>PROYECTO</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Joseph Godoy">
@@ -138,7 +138,7 @@ if (@!$_SESSION['user']) {
 <footer class="footer">
 
 <hr class="soften"/>
-<p>&copy; Copyright Joseph Godoy, Gerardo Gutierrez y Luis Granda <br/><br/></p>
+<p>&copy; Copyright FLAVIO NUÑEZ GARCIA, EVARARDO EUGENIO, ISRAELGARCIA Y MIGUEL ANGEL <br/><br/></p>
  </footer>
 </div><!-- /container -->
 
