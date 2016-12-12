@@ -40,7 +40,7 @@ if (@!$_SESSION['user']) {
 	<div class="container">
 	  <div class="nav-collapse">
 		<ul class="nav">
-			<li class=""><a href="admin.php">ADMINISTRADOR DEL SITIO WEB DE ESTA PAGINA</a></li>
+			<li class=""><a href="admin.php">ADMINISTRADOR DE LA PAGINA WEB</a></li>
 			 
 	
 		</ul>
