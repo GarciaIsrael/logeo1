@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.css">
 		<link rel="stylesheet" type="text/css" href="estilos/estilos.css">
-	<title>Proyecto academias</title>
+	<title>GESTION DE PROYECTOS</title>
 </head>
 <body background="images/ph.jpg" style="background-attachment: fixed" >
 	<center><div class="tit"><h2 style="color: #0000FF; ">Inicio de sesión</h2>
