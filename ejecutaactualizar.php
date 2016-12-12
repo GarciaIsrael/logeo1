@@ -6,7 +6,7 @@ extract($_POST);	//extraer todos los valores del metodo post del formulario de a
 	$sentencia="update login set user='$user', password='$pass', email='$email', pasadmin='$pasadmin' where id='$id'";
 	$resent=mysql_query($sentencia);
 	if ($resent==null) {
-		echo "Error de procesamieno no se han actuaizado los datos";
+		echo "Error de procesamieno no se han actuaizado los datos del sistema";
 		echo '<script>alert("ERROR EN PROCESAMIENTO NO SE ACTUALIZARON LOS DATOS")</script> ';
 		header("location: admin.php");
 		
